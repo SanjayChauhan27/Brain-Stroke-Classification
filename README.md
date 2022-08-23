@@ -4,7 +4,7 @@ The project is about predicting whether a person can have a Brain Stroke in futu
 
 ## Data
 The Data has been extracted from [Kaggle](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset). 
-Data contains various features which impact the which could lead to a stroke such as Age, Hypertension, Heart disease, Working state etc.
+It contains various features which could lead to a stroke such as Age, Hypertension, Heart disease, Working state etc.
 
 ## ML Algorithms used
 * K-Neighbor Classification
